@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Atea @ Red Hat EBC...</title>
+<title>Atea @ Red Hat EBC....</title>
 </head>
 <body>
 <pre>
